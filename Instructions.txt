@@ -1,0 +1,19 @@
+1)Requirements(modules):
+pandas
+numpy
+matplotlib
+tensorflow
+sklearn
+
+2)Steps to follow
+
+i] Open Cmd and change directory to where you want to clone this project.
+ii] type command "git clone https://github.com/seiryuu002/FakeNews.git" on cmd.
+
+NOTE: You need to have git installed and added to your PATH.
+{steps for downloading git -->
+ https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
+ use the above link and skip to 6:11 to know how to install git.}
+
+iii]Now type "jupyter notebook" on cmd and press enter. {install jupyter notebook first}
+iv] Open MiNi.ipynb to run code.
